@@ -10,5 +10,5 @@ This solver uses:
 - **First Fit (FF)**: Places each item into the first bin where it fits.
 - **Best Fit (BF)**: Places each item into the tightest fitting bin.
 
----
+--
 
